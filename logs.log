@@ -1,0 +1,12 @@
+2022-05-16 13:41:14 INFO  Vehicle:96 - Turned around, now direction of travel is 270 degrees
+  2022-05-16 13:41:14 INFO  Vehicle:90 - Turned left, now direction of travel is 0 degrees
+  2022-05-16 13:41:14 INFO  Vehicle:84 - Turned Right, now direction of travel is -90 degrees
+  2022-05-16 13:41:14 WARN  Vehicle:40 - Too big of a gear. The car is still in gear 0
+  2022-05-16 13:41:14 INFO  Vehicle:71 - Speed is now: 15
+  2022-05-16 13:41:14 INFO  Vehicle:53 - The car is now in gear: 2
+  2022-05-16 13:41:14 INFO  Vehicle:71 - Speed is now: 40
+  2022-05-16 13:41:14 INFO  Vehicle:53 - The car is now in gear: 3
+  2022-05-16 13:41:14 INFO  Vehicle:71 - Speed is now: 70
+  2022-05-16 13:41:14 INFO  Vehicle:53 - The car is now in gear: 0
+  2022-05-16 13:41:14 INFO  Vehicle:78 - Stopped. Speed is now: 0
+  
